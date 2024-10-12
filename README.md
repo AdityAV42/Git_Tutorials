@@ -28,3 +28,11 @@ New repo's README markdown file !!!!
 
 ### Push
 >git push
+
+>git push origin main
+
+where 
+* origin is shorthand for remote repo URL location,
+* main is branch_name
+
+
